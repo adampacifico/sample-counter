@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sample-counter/static/css/main.af388455.chunk.css",
+    "main.js": "/sample-counter/static/js/main.d9cda355.chunk.js",
+    "main.js.map": "/sample-counter/static/js/main.d9cda355.chunk.js.map",
+    "runtime-main.js": "/sample-counter/static/js/runtime-main.90bf8daa.js",
+    "runtime-main.js.map": "/sample-counter/static/js/runtime-main.90bf8daa.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/sample-counter/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b5a8ffdf.chunk.js": "/sample-counter/static/js/2.b5a8ffdf.chunk.js",
+    "static/js/2.b5a8ffdf.chunk.js.map": "/sample-counter/static/js/2.b5a8ffdf.chunk.js.map",
+    "static/js/3.31364d54.chunk.js": "/sample-counter/static/js/3.31364d54.chunk.js",
+    "static/js/3.31364d54.chunk.js.map": "/sample-counter/static/js/3.31364d54.chunk.js.map",
+    "index.html": "/sample-counter/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/sample-counter/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.af388455.chunk.css.map": "/sample-counter/static/css/main.af388455.chunk.css.map",
+    "static/js/2.b5a8ffdf.chunk.js.LICENSE.txt": "/sample-counter/static/js/2.b5a8ffdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90bf8daa.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b5a8ffdf.chunk.js",
+    "static/css/main.af388455.chunk.css",
+    "static/js/main.d9cda355.chunk.js"
+  ]
+}
